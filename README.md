@@ -1,8 +1,11 @@
-<h1 align="center" font-size = "4rem">Hi 👋, This is Manish </h1>
+<h1 align="center">
+  <span style="font-family: 'Times New Roman';">Hi 👋,</span>
+  <span style="font-family: Arial; color: green;">This is Manish</span>
+</h1>
  <hr/>
-<h1 align="center">Java Developer </h1>
+<h1 align="center">Java Developer <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"  width = "40px"/>  </h1>
 
-<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0em9ya2U2MWJ4NHJzMXdjdjY4Y2p1M29mNm1nNG15aXY0YWF5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Mr-manish-07"  width = "700px"/> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0em9ya2U2MWJ4NHJzMXdjdjY4Y2p1M29mNm1nNG15aXY0YWF5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Mr-manish-07"  width = "400px"/> </p>
 
 
 
