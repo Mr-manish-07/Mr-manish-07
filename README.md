@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, This is Manish :) </h1>
-<h3 align="center">Software Devloper</h3>
+<h1 align="center" font-size = "4rem">Hi 👋, This is Manish </h1>
+ <hr/>
+<h1 align="center">Java Developer </h1>
 
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXo2aTU2N3QzcTRpbDZ0eHgza3V3bHFwNzF3OXNjMzF1M2h2aDdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Mr-manish-07"  width = "700px"/> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k0em9ya2U2MWJ4NHJzMXdjdjY4Y2p1M29mNm1nNG15aXY0YWF5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Mr-manish-07"  width = "700px"/> </p>
 
 
 
