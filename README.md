@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, This is Manish :) </h1>
+<h3 align="center">Software Devloper</h3>
+
+<p align="left"> <img src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ2dWM0cHlveGxzYXZyaW11cGRjZmFpMXU3OTVwMzhneG40bHprOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" alt="Mr-manish-07" /> </p>
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on building backend skills using Java, focusing on JDBC and Data Structures & Algorithms.<br><br>👯 I’m looking to collaborate on beginner-friendly Java backend projects and open-source contributions.<br><br>🤝 I’m looking for help with understanding real-world applications of OOP concepts and database integration in Java.<br><br>🌱 I’m currently learning Data Structures in Java, JDBC, PostgreSQL, and Discrete Mathematics.<br><br>💬 Ask me about Java basics, OOP, interfaces, and DSA (arrays, linked lists, stacks).<br><br>⚡ Fun fact: I skipped 11th–12th grade math but now enjoy learning Discrete Mathematics!
 
