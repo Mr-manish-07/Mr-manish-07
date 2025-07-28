@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-family: 'Times New Roman';">Hi 👋,</span>
+  <span style="font-family: 'Times New Roman';">Hi,</span>
   <span style="font-family: Arial; color: green;">This is Manish</span>
 </h1>
  <hr/>
